@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rici86
+- 👀 I’m interested in front-end development, crafts, Irish dance
+- 🌱 I’m currently learning all I can find useful!
+- 💞️ I’m looking to collaborate on funny side-projects
+- 📫 How to reach me: rici86.com
